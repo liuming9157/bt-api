@@ -1,0 +1,19 @@
+{
+    "name": "jackliu/bt",
+    "description": "the bt-panel php sdk",
+    "type": "library",
+    "keywords": [
+        "bt-panel"
+    ],
+    "homepage": "https://www.mzyun.tech",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Jack Liu",
+            "email": "liuming@mzsat.cn"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    }
+}
